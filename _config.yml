@@ -95,9 +95,9 @@ analytics:
 author:
   name             : "Samuel Kang"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "I want to be a **great** person."
+  location         : "South Korea"
+  email            : "rkdtjdrhs325@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
